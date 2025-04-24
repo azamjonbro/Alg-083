@@ -71,7 +71,7 @@
 
 
 // console.log(b);
-// let b = 10
+let b = 10
 
 
 

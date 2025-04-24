@@ -92,3 +92,5 @@ user.haircolor="black"
 console.log(Object.keys(user).length);
 
 console.log(user);
+
+let hello = "Hello World!"

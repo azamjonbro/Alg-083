@@ -71,27 +71,27 @@
 
 
 // console.log(b);
-let b = 10
+// let b = 10
 
 
 
 
 
-const user= {
-    name:"Muhammadaziz",
-    character:"Angry",
-    height:190,
-    style: "American old rap",
-    glasses:-1.5,
-    haircolor:"purple",
-}
+// const user= {
+//     name:"Muhammadaziz",
+//     character:"Angry",
+//     height:190,
+//     style: "American old rap",
+//     glasses:-1.5,
+//     haircolor:"purple",
+// }
 
-user.haircolor="black"
+// user.haircolor="black"
 
-// object keys bu objecting faqat keylarini array holda olib beradi
-console.log(Object.keys(user).length);
+// // object keys bu objecting faqat keylarini array holda olib beradi
+// console.log(Object.keys(user).length);
 
-console.log(user);
+// console.log(user);
 
-let hello = "Hello World!"
-console.log(hello);
+// let hello = "Hello World!"
+// console.log(hello);
